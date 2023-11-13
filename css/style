@@ -10,7 +10,7 @@ font-family: 'Poppins', sans-serif;
 }
 
 body{
-background: rgb(90, 0, 187);
+background: rgb(0,255,127);
 }
 
 ::selection{
@@ -26,8 +26,8 @@ position: absolute;
 top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
-0 6px 20px 0 rgba(0, 0, 0, 0.19);
+box-shadow: 0 4px 8px 0 rgba(186,85,211),
+0 6px 20px 0 rgba(186,85,211);
 }
 
 .info_box.activeInfo,
@@ -53,7 +53,7 @@ transition: 1s ease-in-out;
 }
 .start_btn button:hover{
 transform: scale(1.5);
-color: rgb(90, 0, 187);
+color: rgb(127,255,212);
 }
 
 .info_box{
@@ -136,7 +136,7 @@ border-radius: 5px 5px 0 0;
 display: flex;
 align-items: center;
 justify-content: space-between;
-box-shadow: 0px 3px 5px 1px rgba(0,0,0,0.1);
+box-shadow: 0px 3px 5px 1px rgba(255,222,173);
 }
 
 .quiz_box header .title{
@@ -339,7 +339,7 @@ font-family: 'Poppins', sans-serif;
 }
 
 body{
-background: rgb(90, 0, 187);
+background: rgb(64,224,208);
 }
 
 ::selection{
@@ -355,8 +355,8 @@ position: absolute;
 top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
-0 6px 20px 0 rgba(0, 0, 0, 0.19);
+box-shadow: 0 4px 8px 0 rgba(72,61,139),
+0 6px 20px 0 rgba(255,215,0);
 }
 
 .info_box.activeInfo,
@@ -382,7 +382,7 @@ transition: 1s ease-in-out;
 }
 .start_btn button:hover{
 transform: scale(1.5);
-color: rgb(90, 0, 187);
+color: rgb(189,183,107);
 }
 
 .info_box{
@@ -465,7 +465,7 @@ border-radius: 5px 5px 0 0;
 display: flex;
 align-items: center;
 justify-content: space-between;
-box-shadow: 0px 3px 5px 1px rgba(0,0,0,0.1);
+box-shadow: 0px 3px 5px 1px rgba(255,69,0);
 }
 
 .quiz_box header .title{
@@ -680,7 +680,7 @@ font-family: 'Poppins', sans-serif;
 }
 
 body{
-background: rgb(90, 0, 187);
+background: rgb(255,182,193);
 }
 
 ::selection{
@@ -696,8 +696,8 @@ position: absolute;
 top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
-0 6px 20px 0 rgba(0, 0, 0, 0.19);
+box-shadow: 0 4px 8px 0 rgba(238,232,170),
+0 6px 20px 0 rgba(255,160,122);
 }
 
 .info_box.activeInfo,
@@ -723,7 +723,7 @@ transition: 1s ease-in-out;
 }
 .start_btn button:hover{
 transform: scale(1.5);
-color: rgb(90, 0, 187);
+color: rgb(255,218,185);
 }
 
 .info_box{
@@ -806,7 +806,7 @@ border-radius: 5px 5px 0 0;
 display: flex;
 align-items: center;
 justify-content: space-between;
-box-shadow: 0px 3px 5px 1px rgba(0,0,0,0.1);
+box-shadow: 0px 3px 5px 1px rgba(218,112,214);
 }
 
 .quiz_box header .title{
@@ -1048,7 +1048,7 @@ font-family: 'Poppins', sans-serif;
 }
 
 body{
-background: rgb(90, 0, 187);
+background: rgb(147,112,219);
 }
 
 ::selection{
@@ -1064,8 +1064,8 @@ position: absolute;
 top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
-0 6px 20px 0 rgba(0, 0, 0, 0.19);
+box-shadow: 0 4px 8px 0 rgba(173,255,47),
+0 6px 20px 0 rgba(128,128,0);
 }
 
 .info_box.activeInfo,
@@ -1091,7 +1091,7 @@ transition: 1s ease-in-out;
 }
 .start_btn button:hover{
 transform: scale(1.5);
-color: rgb(90, 0, 187);
+color: rgb(0,255,255);
 }
 
 .info_box{
@@ -1174,7 +1174,7 @@ border-radius: 5px 5px 0 0;
 display: flex;
 align-items: center;
 justify-content: space-between;
-box-shadow: 0px 3px 5px 1px rgba(0,0,0,0.1);
+box-shadow: 0px 3px 5px 1px rgba(224,255,255);
 }
 
 .quiz_box header .title{
@@ -1408,8 +1408,8 @@ position: absolute;
 top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
-0 6px 20px 0 rgba(0, 0, 0, 0.19);
+box-shadow: 0 4px 8px 0 rgba(95,158,160),
+0 6px 20px 0 rgba(175,238,238);
 }
 
 .info_box.activeInfo,
@@ -1670,7 +1670,7 @@ font-family: 'Poppins', sans-serif;
 }
 
 body{
-background: rgb(90, 0, 187);
+background: rgb(85,107,47);
 }
 
 ::selection{
